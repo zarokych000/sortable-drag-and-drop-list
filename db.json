@@ -1,0 +1,179 @@
+{
+  "card": [
+    {
+      "img": "img/BMO.png",
+      "quote": "Sometimes life is scary and dark. That is why we must find the light.",
+      "link": "https://adventuretime.fandom.com/wiki/BMO",
+      "name": "BMO",
+      "id": 1,
+      "color": "bmo",
+      "backgroundColor": "#64dcbe",
+      "column": 1
+    },
+
+    {
+      "img": "img/BMO.png",
+      "quote": "She's red hot like pizza supper!",
+      "link": "https://adventuretime.fandom.com/wiki/BMO",
+      "name": "BMO",
+      "id": 2,
+      "color": "bmo",
+      "backgroundColor": "#64dcbe",
+      "column": 1
+    },
+
+    {
+      "img": "img/BMO.png",
+      "quote": "Bow to your sensei.",
+      "link": "https://adventuretime.fandom.com/wiki/BMO",
+      "name": "BMO",
+      "id": 3,
+      "color": "bmo",
+      "backgroundColor": "#64dcbe",
+      "column": 1
+    },
+
+    {
+      "img": "img/bublegume.png",
+      "quote": "That's it! The answer was so simple, I was too smart to see it!.",
+      "link": "https://adventuretime.fandom.com/wiki/Princess_Bubblegum",
+      "name": "Princess Bubblegum",
+      "id": 4,
+      "color": "bubblegum",
+      "backgroundColor": "#fba7df",
+      "column": 2
+    },
+
+    {
+      "img": "img/bublegume.png",
+      "quote": "Responsibility demands sacrifice.",
+      "link": "https://adventuretime.fandom.com/wiki/Princess_Bubblegum",
+      "name": "Princess Bubblegum",
+      "id": 5,
+      "color": "bubblegum",
+      "backgroundColor": "#fba7df",
+      "column": 2
+    },
+
+    {
+      "img": "img/bublegume.png",
+      "quote": "Yeah, I'm good! Haven't slept for solid eighty-three hours, but yeah, I'm good.",
+      "link": "https://adventuretime.fandom.com/wiki/Princess_Bubblegum",
+      "name": "Princess Bubblegum",
+      "id": 6,
+      "color": "bubblegum",
+      "backgroundColor": "#fba7df",
+      "column": 2
+    },
+
+    {
+      "img": "img/bublegume.png",
+      "quote": "Please! I need the real you!",
+      "link": "https://adventuretime.fandom.com/wiki/Princess_Bubblegum",
+      "name": "Princess Bubblegum",
+      "id": 7,
+      "color": "bubblegum",
+      "backgroundColor": "#fba7df",
+      "column": 2
+    },
+    
+    {
+      "img": "img/bublegume.png",
+      "quote": "I should not have drunk that much tea!",
+      "link": "https://adventuretime.fandom.com/wiki/Princess_Bubblegum",
+      "name": "Princess Bubblegum",
+      "id": 8,
+      "color": "bubblegum",
+      "backgroundColor": "#fba7df",
+      "column": 2
+    },
+
+    {
+      "img": "img/jake.png",
+      "quote": "I wasn't scared! I was singing! I was singing my scream song. Wooaah! Wooaaooh!",
+      "link": "https://adventuretime.fandom.com/wiki/Jake",
+      "name": "Jake",
+      "id": 9,
+      "color": "jake",
+      "backgroundColor": "#f0e37f",
+      "column": 3
+    },
+
+    {
+      "img": "img/jake.png",
+      "quote": "Back off, that's his man's biz.",
+      "link": "https://adventuretime.fandom.com/wiki/Jake",
+      "name": "Jake",
+      "id": 10,
+      "color": "jake",
+      "backgroundColor": "#f0e37f",
+      "column": 3
+    },
+
+    {
+      "img": "img/jake.png",
+      "quote": "Oh, what a good boy am I!",
+      "link": "https://adventuretime.fandom.com/wiki/Jake",
+      "name": "Jake",
+      "id": 11,
+      "color": "jake",
+      "backgroundColor": "#f0e37f",
+      "column": 3
+    },
+
+    {
+      "img": "img/jake.png",
+      "quote": "You gotta focus on what’s real, man.",
+      "link": "https://adventuretime.fandom.com/wiki/Jake",
+      "name": "Jake",
+      "id": 12,
+      "color": "jake",
+      "backgroundColor": "#f0e37f",
+      "column": 3
+    },
+
+    {
+      "img": "img/lsp.jpg",
+      "quote": "Buuuuumps!",
+      "link": "https://adventuretime.fandom.com/wiki/Lumpy_Space_Princess",
+      "name": "LSP",
+      "id": 13,
+      "color": "lsp",
+      "backgroundColor": "#f1a2ff",
+      "column": 4
+    },
+
+    {
+      "img": "img/lsp.jpg",
+      "quote": "Oh, yeah! This body's HOT! I feel POWERFUL!",
+      "link": "https://adventuretime.fandom.com/wiki/Lumpy_Space_Princess",
+      "name": "LSP",
+      "id": 14,
+      "color": "lsp",
+      "backgroundColor": "#f1a2ff",
+      "column": 4
+    },
+
+    {
+      "img": "img/lsp.jpg",
+      "quote": "Oh, my Glob, you guys, drama bomb!",
+      "link": "https://adventuretime.fandom.com/wiki/Lumpy_Space_Princess",
+      "name": "LSP",
+      "id": 15,
+      "color": "lsp",
+      "backgroundColor": "#f1a2ff",
+      "column": 4
+    },
+
+    {
+      "img": "img/lsp.jpg",
+      "quote": "Get in touch with your feelings, babe!",
+      "link": "https://adventuretime.fandom.com/wiki/Lumpy_Space_Princess",
+      "name": "LSP",
+      "id": 16,
+      "color": "lsp",
+      "backgroundColor": "#f1a2ff",
+      "column": 4
+    }
+  ]
+}
